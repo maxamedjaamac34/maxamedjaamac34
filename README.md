@@ -10,7 +10,7 @@ design, machine learning models, and software development.<br>
 - [ ] I would love to collaborate on learning and development of virtual machine translators<br>
 
 <p align = "left">
-  <a href="https://github.com/ForrestKnight?tab=followers">
+  <a href="https://github.com/maxamedjaamac34?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/maxamedjaamac34?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
 <a href="https://github.com/maxamedjaamac34?tab=repositories&sort=stargazers">
